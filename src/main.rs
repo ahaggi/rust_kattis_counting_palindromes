@@ -1,13 +1,9 @@
 fn main() {
-    let digits: u32 = 5;
+    let digits: u32 = 8;
 
-    let init_n = 10u32.pow(digits - 1) + 1;
-    let mut n = init_n;
-
-
-    //THE NUM OF PLAINDROMS WITH x DIGITS IS (  9 * 10^(floor of(x-1)/2) )
+    
  
-         gen(7);
+         gen(digits);
  }
 
 // fn read_from_file() -> u32 {
