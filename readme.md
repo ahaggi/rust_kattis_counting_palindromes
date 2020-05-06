@@ -1,4 +1,5 @@
-This code will generate all the palindroms with a given nr of digits
+This code will generate all the palindroms with a given nr of  digits
+
 
 
 <pre>There is 9 palindroms with 1 digit:
@@ -13,6 +14,7 @@ This code will generate all the palindroms with a given nr of digits
 8
 9
 </pre>
+
 
 
 <pre>There is 90 palindroms with 4 digit:
